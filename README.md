@@ -1,2 +1,2 @@
 # Solidity-Projects
-Repository containing smart contracts and dumb contracts
+Repository containing both smart contracts and dumb contracts
